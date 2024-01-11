@@ -1,0 +1,84 @@
+{
+  "ice_creams": [
+    {
+      "flavor": "Vanilla",
+      "description": "Classic vanilla flavor, perfect for any occasion.",
+      "toppings": ["Sprinkles", "Whipped Cream", "Chocolate Sauce"],
+      "price": 3.99,
+      "image": "vanilla_ice_cream.jpg",
+      "ingredients": ["Milk", "Cream", "Sugar", "Vanilla Extract"]
+    },
+    {
+      "flavor": "Chocolate Fudge Brownie",
+      "description": "Rich chocolate ice cream with chunks of fudge brownie.",
+      "toppings": ["Crushed Nuts", "Caramel Drizzle"],
+      "price": 4.99,
+      "image": "chocolate_brownie_ice_cream.jpg",
+      "ingredients": [
+        "Milk",
+        "Cream",
+        "Sugar",
+        "Cocoa Powder",
+        "Brownie Chunks"
+      ]
+    },
+    {
+      "flavor": "Strawberry Cheesecake",
+      "description": "Creamy cheesecake ice cream with swirls of strawberry goodness.",
+      "toppings": ["Graham Cracker Crumbs", "Fresh Strawberries"],
+      "price": 5.49,
+      "image": "strawberry_cheesecake_ice_cream.jpg",
+      "ingredients": [
+        "Milk",
+        "Cream",
+        "Sugar",
+        "Cheesecake Mix",
+        "Strawberry Swirl"
+      ]
+    },
+    {
+      "flavor": "Mint Chocolate Chip",
+      "description": "Cool mint ice cream with chocolate chips for a refreshing treat.",
+      "toppings": ["Chocolate Shavings", "Mint Leaves"],
+      "price": 4.79,
+      "image": "mint_chocolate_chip_ice_cream.jpg",
+      "ingredients": [
+        "Milk",
+        "Cream",
+        "Sugar",
+        "Mint Extract",
+        "Chocolate Chips"
+      ]
+    },
+    {
+      "flavor": "Cookies and Cream",
+      "description": "Delicious vanilla ice cream with chunks of chocolate sandwich cookies.",
+      "toppings": ["Crushed Cookies", "Hot Fudge"],
+      "price": 4.59,
+      "image": "cookies_and_cream_ice_cream.jpg",
+      "ingredients": [
+        "Milk",
+        "Cream",
+        "Sugar",
+        "Vanilla Extract",
+        "Chocolate Sandwich Cookies"
+      ]
+    },
+    {
+      "flavor": "Rocky Road",
+      "description": "Chocolate ice cream with marshmallows, nuts, and chocolate chunks.",
+      "toppings": ["Mini Marshmallows", "Almonds"],
+      "price": 5.29,
+      "image": "rocky_road_ice_cream.jpg",
+      "ingredients": [
+        "Milk",
+        "Cream",
+        "Sugar",
+        "Cocoa Powder",
+        "Marshmallows",
+        "Almonds",
+        "Chocolate Chunks"
+      ]
+    }
+  ]
+}
